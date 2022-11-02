@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AugustHottie
 - 👀 I’m interested in cloud computing, Data Science and web development.
-- 🌱 I’m currently learning python and java, i also did a course on cloud computing with AWS.
+- 🌱 I’m currently learning python.
+- 🌱 Currently doing the AWS Solutions Architect Associate course.
 - 💞️AWS Certified!
 - 💞️ I’m looking to collaborate on simple web projects.
 - 📫 How to reach me, you can contact me on my email: chimexjessica@outlook.com
