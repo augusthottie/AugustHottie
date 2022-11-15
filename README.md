@@ -4,7 +4,8 @@
 I am a Bsc Information Technology student in my final year. I'm passionate about cloud computing, data science, and web development.
 
 ### Skills:
-- 
+![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow) ![html Badge](https://img.shields.io/badge/-HTML-darkred?style=for-the-badge&labelColor=black&logo=HTML&logoColor=darkred) ![CSS Badge](https://img.shields.io/badge/-CSS-darkblue?style=for-the-badge&labelColor=black&logo=CSS&logoColor=darkblue) ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=blue) ![NoSQL Badge](https://img.shields.io/badge/-NoSQL-grey?style=for-the-badge&labelColor=black&logo=NoSQL&logoColor=grey
+
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
 - 🌱 I’m currently learning learning python :D 
@@ -19,7 +20,7 @@ I am a Bsc Information Technology student in my final year. I'm passionate about
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusthottie&show_icons=true&theme=radical)
+![AugustHottie's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusthottie&show_icons=true&theme=radical)
 <!---
 AugustHottie/AugustHottie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
