@@ -1,10 +1,10 @@
 ![Data Science | Cloud Architecture](https://github.com/AugustHottie/public-images/blob/main/gif-hello.gif)
-#### Hi there 👋, I'm augusthottie
+# Hi there 👋, I'm augusthottie
 #### Data Science | Cloud Architecture
+I am a Bsc Information Technology student in my final year. I'm passionate about cloud computing, data science, and web development.
 
-I am a final year Bsc Information Technology student. I’m interested in cloud computing, Data Science and web development.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+### Skills:
+- python
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
 - 🌱 I’m currently learning learning python :D 
@@ -14,7 +14,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - ⚡ Fun fact: AWS Certified! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AugustHottie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jessica-chioma-chimex/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AugustHottie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jessica-chioma-chimex/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/augusthottie)  
+
 
 
 
