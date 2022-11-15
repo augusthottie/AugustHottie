@@ -8,7 +8,7 @@ I am a Bsc Information Technology student in my final year. I'm passionate about
 
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
-- 🌱 I’m currently learning learning python :D 
+- 🌱 I’m currently learning python :D 
 - 👯 I’m looking to collaborate on  simple cloud based projects. 
 - 📫 How to reach me: you can contact me on my email: chimexjessica@outlook.com 
 - 😄 Pronouns: She/Her 
