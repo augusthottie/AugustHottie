@@ -1,4 +1,4 @@
-![Data Science | Cloud Architecture](https://github.com/AugustHottie/public-images/blob/main/hello-world.gif)
+![Data Science | Cloud Architecture]([https://github.com/AugustHottie/public-images/blob/main/hello-world.gif](https://github.com/AugustHottie/public-images/blob/main/gif-hello.gif](https://github.com/AugustHottie/public-images/blob/main/gif-hello.gif))
 
 #### Hi there 👋, I'm augusthottie
 #### Data Science | Cloud Architecture
@@ -7,7 +7,7 @@ I am a final year Bsc Information Technology student. I’m interested in cloud 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on  partaking the AWS Solutions Architect Associate course. 
+- 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
 - 🌱 I’m currently learning learning python :D 
 - 👯 I’m looking to collaborate on  simple cloud based projects. 
 - 📫 How to reach me: you can contact me on my email: chimexjessica@outlook.com 
