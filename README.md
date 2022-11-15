@@ -1,6 +1,7 @@
+<img src = 'https://github.com/AugustHottie/public-images/blob/main/hello-world.gif'>
 ### Hi there 👋, I'm augusthottie
 #### Data Science | Cloud Architecture
-![Data Science | Cloud Architecture](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data Science | Cloud Architecture]
 
 I am a final year Bsc Information Technology student. I’m interested in cloud computing, Data Science and web development.
 
