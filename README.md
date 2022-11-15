@@ -4,7 +4,7 @@
 I am a Bsc Information Technology student in my final year. I'm passionate about cloud computing, data science, and web development.
 
 ### Skills:
-![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow) ![html Badge](https://img.shields.io/badge/-HTML-darkred?style=for-the-badge&labelColor=black&logo=HTML&logoColor=darkred) ![CSS Badge](https://img.shields.io/badge/-CSS-darkblue?style=for-the-badge&labelColor=black&logo=CSS&logoColor=darkblue) ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=blue) ![NoSQL Badge](https://img.shields.io/badge/-NoSQL-grey?style=for-the-badge&labelColor=black&logo=NoSQL&logoColor=grey
+![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow) ![html Badge](https://img.shields.io/badge/-HTML-darkred?style=for-the-badge&labelColor=black&logo=HTML&logoColor=darkred) ![CSS Badge](https://img.shields.io/badge/-CSS-darkblue?style=for-the-badge&labelColor=black&logo=CSS&logoColor=darkblue) ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=blue) ![NoSQL Badge](https://img.shields.io/badge/-NoSQL-grey?style=for-the-badge&labelColor=black&logo=NoSQL&logoColor=grey)
 
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
