@@ -4,7 +4,7 @@
 I am a Bsc Information Technology student in my final year. I'm passionate about cloud computing, data science, and web development.
 
 ### Skills:
-- python
+- 
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
 - 🌱 I’m currently learning learning python :D 
