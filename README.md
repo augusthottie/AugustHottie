@@ -1,4 +1,4 @@
-![Data Science | Cloud Architecture](https://github.com/AugustHottie/public-images/blob/main/hello-world.gif)
+![Data Science | Cloud Architecture](https://github.com/AugustHottie/public-images/blob/main/gif-hello.gif)
 #### Hi there 👋, I'm augusthottie
 #### Data Science | Cloud Architecture
 
