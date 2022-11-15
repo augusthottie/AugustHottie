@@ -1,5 +1,5 @@
-![Data Science | Cloud Architecture](https://github.com/AugustHottie/public-images/blob/main/gif-hello.gif)
-# Hi, I'm augusthottie 👋
+
+# Hi, I'm augusthottie <img src = "https://github.com/AugustHottie/public-images/blob/main/wave.gif" width= 28px height= 28px>
 #### Data Science | Cloud Architecture
 I am a Bsc Information Technology student in my final year. I'm passionate about cloud computing, data science, and web development.
 
