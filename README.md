@@ -18,6 +18,10 @@ I am a Bsc Information Technology Alumni. I'm passionate about cloud computing, 
 
 ## GitHub-Stats:
 ![AugustHottie's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusthottie&show_icons=true&theme=midnight-purple)
+
+
+## Most-used Languages
+![AugustHottie's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=augusthottie&show_icons=true&locale=en&layout=compact) 
 <!---
 AugustHottie/AugustHottie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
