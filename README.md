@@ -1,11 +1,10 @@
 
 # Hi, I'm augusthottie <img src = "https://github.com/AugustHottie/public-images/blob/main/wave.gif" width= 28px height= 28px>
 #### Data Science | Cloud Architecture
-I am a Bsc Information Technology student in my final year. I'm passionate about cloud computing, data science, and web development.
+I am a Bsc Information Technology Alumni. I'm passionate about cloud computing, data science, and web development.
 
 ## Skills:
-![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow) ![html Badge](https://img.shields.io/badge/-HTML-darkred?style=for-the-badge&labelColor=black&logo=HTML&logoColor=darkred) ![CSS Badge](https://img.shields.io/badge/-CSS-darkblue?style=for-the-badge&labelColor=black&logo=CSS&logoColor=darkblue) ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=blue) ![NoSQL Badge](https://img.shields.io/badge/-NoSQL-grey?style=for-the-badge&labelColor=black&logo=NoSQL&logoColor=grey)
-
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width ="40" height="40"/>
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
 - 🌱 I’m currently learning python :D 
@@ -15,7 +14,7 @@ I am a Bsc Information Technology student in my final year. I'm passionate about
 - ⚡ Fun fact: AWS Certified! 
 
 ## Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AugustHottie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jessica-chioma-chimex-400b7b1b6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/augusthottie)  
+[<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/AugustHottie)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jessica-chioma-chimex-400b7b1b6)  [<img src='https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg' alt='hashnode' height='40'>](augusthottie.hashnode.dev)  
 
 ## GitHub-Stats:
 ![AugustHottie's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusthottie&show_icons=true&theme=radical)
