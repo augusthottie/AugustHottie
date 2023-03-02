@@ -17,7 +17,7 @@ I am a Bsc Information Technology Alumni. I'm passionate about cloud computing, 
 [<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/AugustHottie)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jessica-chioma-chimex-400b7b1b6)  [<img src='https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg' alt='hashnode' height='40'>](https://hashnode.com/@augusthottie)  
 
 ## GitHub-Stats:
-![AugustHottie's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusthottie&show_icons=true&theme=radical)
+![AugustHottie's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusthottie&show_icons=true&theme=midnight-purple)
 <!---
 AugustHottie/AugustHottie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
