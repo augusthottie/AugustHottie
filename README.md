@@ -14,7 +14,7 @@ I am a Bsc Information Technology Alumni. I'm passionate about cloud computing, 
 - ⚡ Fun fact: AWS Certified! 
 
 ## Socials:
-[<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/AugustHottie)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jessica-chioma-chimex-400b7b1b6)  [<img src='https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg' alt='hashnode' height='40'>](augusthottie.hashnode.dev)  
+[<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/AugustHottie)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jessica-chioma-chimex-400b7b1b6)  [<img src='https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg' alt='hashnode' height='40'>](https://hashnode.com/@augusthottie)  
 
 ## GitHub-Stats:
 ![AugustHottie's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusthottie&show_icons=true&theme=radical)
