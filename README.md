@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AugustHottie&label=Profile%20views&color=0e75b6&style=flat" alt="hottie" /> </p>
 
 # Hi, I'm augusthottie <img src = "https://github.com/AugustHottie/public-images/blob/main/wave.gif" width= 28px height= 28px>
 #### Data Science | Cloud Architecture
@@ -9,7 +10,6 @@ I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, 
 - 📫 How to reach me: you can contact me on my email: chimexjessica@outlook.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: AWS Certified! 
-
 
 ## Skills:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://github.com/AugustHottie/AugustHottie/blob/main/awslogo.png" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width ="40" height="40"/>
@@ -39,11 +39,8 @@ I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, 
 <!-- HASHNODE_BLOG:END -->
 
 ## GitHub-Stats:
-![AugustHottie's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusthottie&show_icons=true&theme=midnight-purple)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AugustHottie&show_icons=true&theme=react" alt="hottie" /></p>
 
-
-## Most-used Languages
-![AugustHottie's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=augusthottie&show_icons=true&locale=en&layout=compact) 
 <!---
 AugustHottie/AugustHottie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
