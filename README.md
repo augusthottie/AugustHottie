@@ -32,7 +32,7 @@ I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, 
 <br/>The AWS Well-Architected Framework is intended to assist organizations in developing secure, high-performance, resilient, and efficient infrastructure for their applications....</p> <br/> <br/>
 
 <p align="left">
-<a href="https://augusthottie.hashnode.dev/amazon-s3" title="Amazon S3"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678542298482/4e223100-09a1-4dc9-b79c-5c6b7f6d1a3c.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="AWS logo" width="250px" align="left" /></a>
+<a href="https://augusthottie.hashnode.dev/amazon-s3" title="Amazon S3"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680177116637/de6932c8-ec99-4fc7-bf21-fa33e6d9eecb.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="AWS logo" width="250px" align="left" /></a>
 <a href="https://augusthottie.hashnode.dev/amazon-s3" title="Amazon S3- Deploy a static website"><strong>Amazon S3- Deploy a static website</strong></a>
 <div><strong>25 March 2023</strong></div>
 <br/> AWS S3 is an immensely powerful and popular cloud storage service. It can be used to store and serve static websites, images, videos, and more. Are you looking to deploy a static website on AWS S3?.....</p> <br/> <br/>
