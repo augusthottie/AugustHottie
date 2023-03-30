@@ -26,7 +26,7 @@ I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, 
 <br/>I'm sure many of you have heard of AWS or have a rudimentary understanding of the cloud service provider; if so, fantastic! If not, don't worry; together we'll learn about it.....</p> <br/> <br/>
 
 <p align="left">
-<a href="https://augusthottie.hashnode.dev/aws-well-architected-framework" title="AWS Well Architected Framework"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678542298482/4e223100-09a1-4dc9-b79c-5c6b7f6d1a3c.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="AWS logo" width="250px" align="left" /></a>
+<a href="https://augusthottie.hashnode.dev/aws-well-architected-framework" title="AWS Well Architected Framework"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680177588105/b23f8ae9-1979-4c61-b494-85a1c4b2b35b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="AWS logo" width="250px" align="left" /></a>
 <a href="https://augusthottie.hashnode.dev/aws-well-architected-framework" title="AWS Well Architected Framework"><strong>AWS Well Architected Framework</strong></a>
 <div><strong>11 March 2023</strong></div>
 <br/>The AWS Well-Architected Framework is intended to assist organizations in developing secure, high-performance, resilient, and efficient infrastructure for their applications....</p> <br/> <br/>
