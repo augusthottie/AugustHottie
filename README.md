@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AugustHottie&label=Profile%20views&color=0e75b6&style=flat" alt="hottie" /> </p>
 
-# Hi, I'm augusthottie <img src = "https://github.com/AugustHottie/public-images/blob/main/wave.gif" width= 28px height= 28px>
+# Hi, I'm Jessica Chioma <img src = "https://github.com/AugustHottie/public-images/blob/main/wave.gif" width= 28px height= 28px>
 #### Data Science | Cloud Architecture
 I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Data Science, and Web Development.
 
