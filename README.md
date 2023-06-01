@@ -1,6 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AugustHottie&label=Profile%20views&color=0e75b6&style=flat" alt="hottie" /> </p>
 
 # Hi, I'm Jessica Chioma <img src = "https://github.com/AugustHottie/public-images/blob/main/wave.gif" width= 28px height= 28px>
+
+<a href="https://github.com/AugustHottie">
+    <img src="https://github-stats-alpha.vercel.app/api?username=AugustHottie&cc=282a36&tc=ff79c6&ic=bd93f9">
+</a>
+
 #### Data Science | Cloud Architecture
 I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Data Science, and Web Development.
 
@@ -39,7 +44,12 @@ I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, 
 <!-- HASHNODE_BLOG:END -->
 
 ## GitHub-Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AugustHottie&show_icons=true&theme=react" alt="hottie" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustHottie&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AugustHottie&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AugustHottie&theme=dracula)
+
 
 <!---
 AugustHottie/AugustHottie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
