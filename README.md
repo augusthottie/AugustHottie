@@ -10,8 +10,8 @@
 I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Data Science, and Web Development.
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
-- 🌱 I’m currently learning python :D 
-- 👯 I’m looking to collaborate on  simple cloud based projects. 
+- 🌱 I’m currently learning Django framework :D 
+- 👯 I’m looking to collaborate on simple cloud based and Django projects. 
 - 📫 How to reach me: you can contact me on my email: chimexjessica@outlook.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: AWS Certified! 
