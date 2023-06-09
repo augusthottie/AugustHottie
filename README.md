@@ -7,7 +7,7 @@
 </a>
 
 #### Data Science | Cloud Architecture
-I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Data Science, and Web Development.
+I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Data Science, and Web Development (backend).
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
 - 🌱 I’m currently learning Django framework :D 
