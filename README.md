@@ -6,8 +6,8 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=AugustHottie&cc=282a36&tc=ff79c6&ic=bd93f9">
 </a>
 
-#### Data Science | Cloud Architecture
-I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Data Science, and Web Development (backend).
+#### Data Science | Cloud Architecture | Web3
+I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Data Science, Web Development (backend), and Web3 development.
 
 - 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
 - 🌱 I’m currently learning Django framework :D 
