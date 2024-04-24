@@ -6,15 +6,15 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=AugustHottie&cc=282a36&tc=ff79c6&ic=bd93f9">
 </a>
 
-#### Data Science | Cloud Architecture | Web3
-I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Data Science, Web Development (backend), and Web3 development.
+#### Cloud Architecture | Web3
+I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Web Development (backend), and Web3 development.
 
-- 🔭 I’m currently working on the AWS Solutions Architect Associate course. 
-- 🌱 I’m currently learning Django framework :D 
-- 👯 I’m looking to collaborate on simple cloud based and Django projects. 
+- 🔭 I’m currently working on advancing my python and web3 skills. 
+- 🌱 I’m currently learning Blockchain technologies :D 
+- 👯 I’m looking to collaborate on simple cloud based and web2&3 projects. 
 - 📫 How to reach me: you can contact me on my email: chimexjessica@outlook.com 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: AWS Certified! 
+- ⚡ Fun fact: 2x AWS Certified! 
 
 ## Skills:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://github.com/AugustHottie/AugustHottie/blob/main/awslogo.png" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width ="40" height="40"/>
