@@ -7,7 +7,7 @@
 </a>
 
 #### Cloud Architecture | Web3
-I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, Web Development (backend), and Web3 development.
+I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, DevOps, and Web3 development.
 
 - 🔭 I’m currently working on advancing my python and web3 skills. 
 - 🌱 I’m currently learning Blockchain technologies :D 
