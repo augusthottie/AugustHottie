@@ -73,11 +73,7 @@ With DevOpsFetch, you can easily display active ports, user logins, Nginx config
 <!-- HASHNODE_BLOG:END -->
 
 ## GitHub-Stats:
-![](https://github-stats-alpha.vercel.app/api?username=AugustHottie&cc=282a36&tc=ff79c6&ic=bd93f9) ![](https://github-readme-stats.vercel.app/api?username=AugustHottie&show_icons=true&theme=radical)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AugustHottie&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AugustHottie&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustHottie&theme=dracula) 
+![](https://github-readme-stats.vercel.app/api?username=AugustHottie&show_icons=true&theme=radical)
 
 <!---
 AugustHottie/AugustHottie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
