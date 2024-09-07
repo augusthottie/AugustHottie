@@ -2,11 +2,7 @@
 
 # Hi, I'm Jessica Chioma <img src = "https://github.com/AugustHottie/public-images/blob/main/wave.gif" width= 28px height= 28px>
 
-<a href="https://github.com/AugustHottie">
-    <img src="https://github-stats-alpha.vercel.app/api?username=AugustHottie&cc=282a36&tc=ff79c6&ic=bd93f9">
-</a>
-
-#### Cloud Architecture | Web3 | DevOps
+#### DevOps | Cloud Architecture | Web3
 I am a Bsc Information Technology Alumni. I'm passionate about Cloud Computing, DevOps, and Web3 development.
 
 - 🔭 I’m currently working on advancing on various DevOps tools (Ansible, Terraform, Grafana, etc.). 
@@ -77,12 +73,11 @@ With DevOpsFetch, you can easily display active ports, user logins, Nginx config
 <!-- HASHNODE_BLOG:END -->
 
 ## GitHub-Stats:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustHottie&theme=dracula) 
+![](https://github-stats-alpha.vercel.app/api?username=AugustHottie&cc=282a36&tc=ff79c6&ic=bd93f9) ![](https://github-readme-stats.vercel.app/api?username=AugustHottie&show_icons=true&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AugustHottie&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AugustHottie&theme=dracula)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustHottie&theme=dracula) 
 
 <!---
 AugustHottie/AugustHottie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
