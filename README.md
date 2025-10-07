@@ -11,7 +11,7 @@ Your not so average DevOps baddie
 
 ## Current
 
-- DevOps Engineer II at **Notus Labs** (Remote/2023-current)
+- DevOps Engineer II at **Notus Labs** (Remote/2024-current)
 
 ## Previous
 - Lead DevOps Engineer at [**Patara Labs**](https://my.patara.app/) (Remote/2023-2024)
